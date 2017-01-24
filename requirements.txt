@@ -1,0 +1,2 @@
+honcho==0.7.1
+websockets==3.2
